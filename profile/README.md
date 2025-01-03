@@ -54,8 +54,8 @@
 <br>
 
 7. 도서 상세 조회
-<img src="https://github.com/user-attachments/assets/23cab6d9-2aea-447a-8f45-9a5d53d5690a" width=60% height=60%>
-<img src="https://github.com/user-attachments/assets/dee1795f-5843-47b8-aeb8-2fa151ac5886" width=60% height=60%>
+<img src="https://github.com/user-attachments/assets/23cab6d9-2aea-447a-8f45-9a5d53d5690a" width=40% height=40%>
+<img src="https://github.com/user-attachments/assets/dee1795f-5843-47b8-aeb8-2fa151ac5886" width=40% height=40%>
 
 <br>
 
